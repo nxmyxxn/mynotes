@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "3. Add a Scheduled Task to Your Flow"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 3. Add a Scheduled Task to Your Flow"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from 3. Add a Scheduled Task to Your Flow"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 3. Add a Scheduled Task to Your Flow"
             }
           }
         ]
@@ -169,15 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Platform Developer 1/Record-Triggered Flows/2. Build a Record-Triggered Flows.md",
+    "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
+    "Pasted image 20250511141013.png",
+    "Pasted image 20250511141009.png",
+    "Pasted image 20250511141000.png",
+    "index.md",
     "Administrator",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "Platform Developer 1/Record-Triggered Flows/2. Build a Record-Triggered Flows.md",
     "Platform Developer 1/Record-Triggered Flows",
     "Platform Developer 1",
-    "index.md",
     "category-folder"
   ]
 }
