@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
+                "file": "Platform Developer 1/Record-Triggered Flows/2. Build a Record-Triggered Flows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Add a Scheduled Task to Your Flow"
+              "title": "2. Build a Record-Triggered Flows"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
+                "file": "Platform Developer 1/Record-Triggered Flows/2. Build a Record-Triggered Flows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Add a Scheduled Task to Your Flow"
+              "title": "Backlinks for 2. Build a Record-Triggered Flows"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
+                "file": "Platform Developer 1/Record-Triggered Flows/2. Build a Record-Triggered Flows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Add a Scheduled Task to Your Flow"
+              "title": "Outgoing links from 2. Build a Record-Triggered Flows"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
+                "file": "Platform Developer 1/Record-Triggered Flows/2. Build a Record-Triggered Flows.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Add a Scheduled Task to Your Flow"
+              "title": "Outline of 2. Build a Record-Triggered Flows"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Platform Developer 1/Record-Triggered Flows/2. Build a Record-Triggered Flows.md",
     "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
+    "Platform Developer 1/Record-Triggered Flows/2. Build a Record-Triggered Flows.md",
     "Pasted image 20250511141013.png",
     "Pasted image 20250511141009.png",
     "Pasted image 20250511141000.png",
