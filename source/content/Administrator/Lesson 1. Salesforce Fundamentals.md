@@ -3,12 +3,12 @@
 - Easy to integrate new applications, and build your own custom applications
 
 - Salesforce Platform
-	Sales Cloud: Manages ==leads== and ==opportunities== - helps predict customer needs.
-	Service Cloud: Support ==personalized customer service== and helps manage support requests. 
-	Marketing Cloud: ==Automates== marketing through ==email, mobile, web== channels.
-	Experience Cloud: Builds ==portals== for handling customer ==complaints== and interactions.
-	Tableau:  Assists in ==quick decision-making== with data analysis.
-	Commerce Cloud: Enables ==automation==, delivers a personalized commerce experience.
+	Sales Cloud: Manages ==leads== and ==opportunities== - helps predict customer needs.  
+	Service Cloud: Support ==personalized customer service== and helps manage support requests.   
+	Marketing Cloud: ==Automates== marketing through ==email, mobile, web== channels.   
+	Experience Cloud: Builds ==portals== for handling customer ==complaints== and interactions.  #experiencecloud 
+	Tableau:  Assists in ==quick decision-making== with data analysis.  
+	Commerce Cloud: Enables ==automation==, delivers a personalized commerce experience.  
 
 - Multi-Tenant Cloud
 	Single instance of the sw, db and supporting infrastructure serves multiple customers, while each tenant's data is isolated and remains invisible to other tenants.
