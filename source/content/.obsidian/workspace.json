@@ -35,7 +35,8 @@
               "title": "4. Salesforce Record Access"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administrator/3. Feature & Object Access.md",
+                "file": "4. Salesforce Record Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Feature & Object Access"
+              "title": "Backlinks for 4. Salesforce Record Access"
             }
           },
           {
@@ -128,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administrator/3. Feature & Object Access.md",
+                "file": "4. Salesforce Record Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Feature & Object Access"
+              "title": "Outgoing links from 4. Salesforce Record Access"
             }
           },
           {
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administrator/3. Feature & Object Access.md",
+                "file": "4. Salesforce Record Access.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Feature & Object Access"
+              "title": "Outline of 4. Salesforce Record Access"
             }
           }
         ]
@@ -184,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2316c6a77fe339e9",
+  "active": "5b360d7e494e791c",
   "lastOpenFiles": [
-    "Administrator/2. The Big Picture - All Users.md",
     "Administrator/3. Feature & Object Access.md",
+    "Administrator/2. The Big Picture - All Users.md",
     "4. Salesforce Record Access.md",
     "attatchments/Pasted image 20250513181813.png",
     "attatchments/Pasted image 20250513180013.png",
