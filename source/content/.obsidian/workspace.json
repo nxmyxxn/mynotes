@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Salesforce Record Access.md",
+                "file": "Administrator/4. Salesforce Record Access.md",
                 "mode": "source",
                 "source": false
               },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Salesforce Record Access.md",
+                "file": "Administrator/4. Salesforce Record Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Salesforce Record Access.md",
+                "file": "Administrator/4. Salesforce Record Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Salesforce Record Access.md",
+                "file": "Administrator/4. Salesforce Record Access.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,7 +189,7 @@
   "lastOpenFiles": [
     "Administrator/3. Feature & Object Access.md",
     "Administrator/2. The Big Picture - All Users.md",
-    "4. Salesforce Record Access.md",
+    "Administrator/4. Salesforce Record Access.md",
     "attatchments/Pasted image 20250513181813.png",
     "attatchments/Pasted image 20250513180013.png",
     "attatchments/Pasted image 20250513174104.png",
