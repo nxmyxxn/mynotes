@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3654a49346947c1b",
+        "id": "dba2d5d3162457f5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7fdff285b1dd0a6",
+            "id": "37173e0862e5f555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrator/8. Declarative Automation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Declarative Automation"
+            }
+          },
+          {
+            "id": "9f67316bd2c24c4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administrator/7. Data Management.md",
+                "file": "Administrator/8. Declarative Automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7. Data Management"
+              "title": "Backlinks for 8. Declarative Automation"
             }
           },
           {
@@ -114,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administrator/7. Data Management.md",
+                "file": "Administrator/8. Declarative Automation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7. Data Management"
+              "title": "Outgoing links from 8. Declarative Automation"
             }
           },
           {
@@ -143,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administrator/7. Data Management.md",
+                "file": "Administrator/8. Declarative Automation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7. Data Management"
+              "title": "Outline of 8. Declarative Automation"
             }
           }
         ]
@@ -170,13 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7fdff285b1dd0a6",
+  "active": "37173e0862e5f555",
   "lastOpenFiles": [
+    "attatchments/Pasted image 20250515174408.png",
+    "Administrator/7. Data Management.md",
+    "Administrator/8. Declarative Automation.md",
     "Administrator/6. Customize the Existing User Interface.md",
     "Administrator/5. Customize Standard Functionality.md",
     "Administrator/4. Salesforce Record Access.md",
-    "Administrator/7. Data Management.md",
-    "Administrator/8. Declarative Automation.md",
     "Administrator/2. The Big Picture - All Users.md",
     "Administrator/3. Feature & Object Access.md",
     "attatchments/Pasted image 20250513181813.png",
