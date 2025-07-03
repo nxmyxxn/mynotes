@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dba2d5d3162457f5",
+        "id": "d41ce36788e815d6",
         "type": "tabs",
         "children": [
           {
-            "id": "0e119324056c9424",
+            "id": "95158711e4b9a9a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administrator/3. Feature & Object Access.md",
+                "file": "Platform Developer 1/Record-Triggered Flows/4. Meet Flow Trigger Explorer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Feature & Object Access"
-            }
-          },
-          {
-            "id": "2ebefc8511bebbbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript Developer 1/JavaScript Skills for Salesforce Developers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript Skills for Salesforce Developers"
+              "title": "4. Meet Flow Trigger Explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "subject",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -195,40 +180,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ebefc8511bebbbc",
+  "active": "95158711e4b9a9a9",
   "lastOpenFiles": [
-    "Administrator/11. Analytics.md",
-    "JavaScript Developer 1/JavaScript Skills for Salesforce Developers.md",
-    "Administrator/10. Create New with Clicks.md",
-    "Administrator/3. Feature & Object Access.md",
-    "Administrator/8. Declarative Automation.md",
-    "Administrator/9. The Future of Automation-Flow.md",
     "Platform Developer 1/Apex Basics & Database.md",
+    "Platform Developer 1/Visualforce.md",
+    "ADX201-Administrator/5. Customize Standard Functionality.md",
+    "JavaScript Developer 1/JavaScript Skills for Salesforce Developers.md",
+    "ADX201-Administrator/4. Salesforce Record Access.md",
+    "ADX201-Administrator/2. The Big Picture - All Users.md",
+    "ADX201-Administrator/3. Feature & Object Access.md",
+    "ADX201-Administrator/6. Customize the Existing User Interface.md",
+    "DEX403-App Builder/3. Profiles and Permission Sets.md",
+    "Platform Developer 1/Record-Triggered Flows/4. Meet Flow Trigger Explorer.md",
+    "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
     "Platform Developer 1/Record-Triggered Flows/2. Build a Record-Triggered Flows.md",
+    "ADX201-Administrator/7. Data Management.md",
+    "ADX201-Administrator/1. Salesforce Fundamentals.md",
+    "DEX403-App Builder/Building Your Data Model.md",
+    "DEX450",
+    "DEX403-App Builder/4. Controlling Access to Records.md",
+    "DEX403-App Builder/1. AW Computing.md",
+    "ADX201-Administrator/8. Declarative Automation.md",
+    "attatchments/Pasted image 20250526170230.png",
+    "attatchments/Pasted image 20250526145130.png",
+    "attatchments/Pasted image 20250526134234.png",
+    "attatchments/Pasted image 20250526113937.png",
+    "attatchments/Pasted image 20250526113929.png",
+    "DEX403-App Builder",
+    "index.md",
+    "ADX201-Administrator/11. Analytics.md",
+    "JavaScript Developer 1",
+    "ADX201-Administrator/10. Create New with Clicks.md",
+    "ADX201-Administrator/9. The Future of Automation-Flow.md",
     "attatchments/Pasted image 20250516111317.png",
     "attatchments/Pasted image 20250516105136.png",
-    "Administrator/7. Data Management.md",
-    "Administrator/5. Customize Standard Functionality.md",
-    "Administrator/2. The Big Picture - All Users.md",
-    "Administrator/4. Salesforce Record Access.md",
-    "Administrator/6. Customize the Existing User Interface.md",
     "attatchments/Pasted image 20250515174408.png",
     "attatchments/Pasted image 20250513181813.png",
     "attatchments/Pasted image 20250513180013.png",
-    "attatchments/Pasted image 20250513174104.png",
-    "attatchments/Pasted image 20250513171452.png",
-    "attatchments/Pasted image 20250513163112.png",
-    "attatchments/Pasted image 20250513144730.png",
-    "attatchments/Pasted image 20250513140303.png",
-    "Administrator/1. Salesforce Fundamentals.md",
-    "Administrator/0. Introduction & Overview.md",
+    "ADX201-Administrator/0. Introduction & Overview.md",
     "attatchments",
-    "JavaScript Developer 1",
-    "Platform Developer 1/Record-Triggered Flows/3. Add a Scheduled Task to Your Flow.md",
-    "Platform Developer 1/Record-Triggered Flows/4. Meet Flow Trigger Explorer.md",
     "Platform Developer 1/Search Solution Basics",
-    "index.md",
-    "Administrator",
+    "ADX201-Administrator",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "Platform Developer 1/Record-Triggered Flows",

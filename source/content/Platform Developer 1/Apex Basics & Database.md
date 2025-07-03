@@ -49,7 +49,8 @@ When you don't know the type of sObject your method is handling, you can use the
 
 # 3. Manipulate Records with DML
 
-
+Partial success option
+Know when to use DML statements and when to use Database methods.
 
 # 4. Write SOQL Queries
 
