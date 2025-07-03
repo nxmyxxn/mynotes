@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Obsidian / Quartz / GitHub Pages Template
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
@@ -21,3 +22,6 @@ I made the "raw HTML" option for people who are generating HTML UI's with Claude
 > Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.config.ts or changing the layout in quartz.layout.ts.
 
 https://quartz.jzhao.xyz/configuration
+=======
+# mynotes
+>>>>>>> 6eb3e1fdc9f1b11f3c7a39921deead384f68b593
